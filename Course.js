@@ -16,10 +16,10 @@ tml>
 tml>
 <body>
 >
+<a href="#" onclick="$dc.loadMenuItems('SP');">
 
 <h2>My First Web Page</h2>
 
-<p>Activate</p>
+<p>Menu</p>
 
-<script>
-a = 5;
+<Script>Menu</script>
